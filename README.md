@@ -1,7 +1,7 @@
 # Kazakh Profanity Detection
 
 DSSC5113 Algorithms of Computer Vision · Bonus project · Fall 2026
-**Author:** _<full name>_ · **Student ID:** _<id>_
+**Author:**Kalashnikova Viktoriya · **Student ID:** 25MD0173
 
 A character-level CNN, trained from scratch, that reads one Kazakh review or comment and predicts whether it contains profanity.
 
@@ -253,4 +253,4 @@ All test predictions with probabilities are in `results/test_predictions.csv`.
 
 ## 7. Acknowledgements and AI assistance
 
-_<Fill in: which tools you used, what you asked for, which parts you wrote or changed yourself.>_
+The dataset for the task was altogether gathered by master degree students of Deep learning class. Claude was used for code writing and debugging, all cells were manually checked and launched from scratch.
