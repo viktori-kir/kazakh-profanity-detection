@@ -1,0 +1,33 @@
+{
+  "threshold": 0.57,
+  "profanity_class": {
+    "n": 305,
+    "precision": 0.9225806451612903,
+    "recall": 0.934640522875817,
+    "f1": 0.9285714285714286,
+    "accuracy": 0.9278688524590164
+  },
+  "confusion_matrix": {
+    "tn": 140,
+    "fp": 12,
+    "fn": 10,
+    "tp": 143
+  },
+  "class_counts": {
+    "0": 152,
+    "1": 153
+  },
+  "appstore_only": {
+    "n": 276,
+    "precision": 0.9281045751633987,
+    "recall": 0.9403973509933775,
+    "f1": 0.9342105263157895,
+    "accuracy": 0.927536231884058
+  },
+  "test_domains": {
+    "appstore": 276,
+    "market": 16,
+    "bookstore": 8,
+    "mapping": 5
+  }
+}

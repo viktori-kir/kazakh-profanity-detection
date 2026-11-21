@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "near_duplicate_threshold": 0.9,
+  "rows_labeled": 3058,
+  "label_corrections": 2,
+  "rows_after_exact_dedup": 3052,
+  "near_duplicate_groups_with_2plus_rows": 16,
+  "splits": {
+    "train": {
+      "rows": 2442,
+      "label_0": 1214,
+      "label_1": 1228
+    },
+    "val": {
+      "rows": 305,
+      "label_0": 152,
+      "label_1": 153
+    },
+    "test": {
+      "rows": 305,
+      "label_0": 152,
+      "label_1": 153
+    }
+  }
+}
